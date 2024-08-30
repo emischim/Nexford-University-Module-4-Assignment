@@ -10,4 +10,4 @@ This project involves analyzing a Netflix dataset to gain insights into the most
 
 ## How to Run
 1. For python, upload the `Module_4_Assignment(python)_Netflix_Data_Visualization.ipynb` to google colab, make sure a python runtime is selected, then upload the netflix data set and run the code
-2. FOr R, upload the `Module_4_Assignment(R)_Netflix_Data_Visualization.ipynb` to google colab, make sure an R runtime is selected, then upload the netflix data set and run the code
+2. For R, upload the `Module_4_Assignment(R)_Netflix_Data_Visualization.ipynb` to google colab, make sure an R runtime is selected, then upload the netflix data set and run the code
